@@ -21,7 +21,7 @@ classDiagram
         -GameModel model
         -GameView view
         +new() GameController
-        +run() async
+        +run() 
     }
 
     class GameState {
